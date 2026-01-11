@@ -1,3 +1,6 @@
+# 💫 About Me:
+⚡ I’m a Software Engineer with a strong background in backend systems, cloud-native development, and applied AI. I enjoy building scalable systems, improving developer workflows, and solving real-world problems with clean, well-structured code.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/k-sidhartha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reddyksidharth@gmail.com) 
@@ -9,7 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ssparser&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssparser&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ssparser&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Open-Source Contributions
+- **Kestra** — https://github.com/kestra-io  
+  Event-driven orchestration platform (Java, API, SDK, OSS)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
