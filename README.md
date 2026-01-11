@@ -4,6 +4,11 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/k-sidhartha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reddyksidharth@gmail.com) 
+
+### 🔝 Top Open-Source Contributions
+- **Kestra** — https://github.com/kestra-io  
+  Event-driven orchestration platform (Java, API, SDK, OSS)
+
 ## 💻 Tech Stack
 
 ### 🧠 Languages
@@ -97,9 +102,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ssparser&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssparser&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Open-Source Contributions
-- **Kestra** — https://github.com/kestra-io  
-  Event-driven orchestration platform (Java, API, SDK, OSS)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
