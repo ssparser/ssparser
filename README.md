@@ -5,9 +5,18 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/k-sidhartha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reddyksidharth@gmail.com) 
 
-### 🔝 Top Open-Source Contributions
-- **Kestra** — https://github.com/kestra-io  
-  Event-driven orchestration platform (Java, API, SDK, OSS)
+<details open> 
+  <summary><h2>📕 Top Open-Source Project I've Contributed To</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/kestra-io/kestra">
+      <img width="278"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kestra-io&repo=kestra&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
+           alt="kestra">
+    </a>
+  </p>
+</details>
+
 
 ## 💻 Tech Stack
 
